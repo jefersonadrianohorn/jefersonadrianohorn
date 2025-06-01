@@ -1,15 +1,15 @@
 <div align="center">
 
 # 👋 Olá, eu sou 
-<img src="https://readme-typing-svg.herokuapp.com?font=Playfair+Display&size=38&duration=3000&pause=999999&color=7C3AED&center=true&vCenter=true&width=400&lines=Jeferson+Adriano" alt="Jeferson Adriano" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=36&duration=3000&pause=999999&color=6366F1&center=true&vCenter=true&width=350&lines=Jeferson+Adriano" alt="Jeferson Adriano" />
 
-**Full-Stack Developer & IoT Maker**
+**Desenvolvedor Full-Stack & Maker IoT**
 
 </div>
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Tecnologias
 
 <div align="center">
 
@@ -17,7 +17,7 @@
 
 </div>
 
-### Web Development
+### Desenvolvimento Web
 - **JavaScript** - Frontend interativo
 - **HTML5 & CSS3** - Interfaces modernas  
 - **PHP** - Backend robusto
@@ -29,7 +29,7 @@
 
 ---
 
-## 📊 GitHub Stats
+## 📊 Estatísticas GitHub
 
 <div align="center">
 
