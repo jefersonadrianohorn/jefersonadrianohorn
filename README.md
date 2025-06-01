@@ -1,7 +1,7 @@
 <div align="center">
 
 # 👋 Olá, eu sou 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2000&pause=1000&color=00D9FF&center=true&vCenter=true&width=300&lines=Jeferson+Adriano" alt="Jeferson Adriano" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Playfair+Display&size=38&duration=3000&pause=999999&color=7C3AED&center=true&vCenter=true&width=400&lines=Jeferson+Adriano" alt="Jeferson Adriano" />
 
 **Full-Stack Developer & IoT Maker**
 
