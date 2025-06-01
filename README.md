@@ -1,7 +1,7 @@
 <div align="center">
 
 # 👋 Olá, eu sou 
-<img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=36&duration=3000&pause=999999&color=6366F1&center=true&vCenter=true&width=350&lines=Jeferson+Adriano" alt="Jeferson Adriano" />
+<img src="https://readme-typing-svg.herokuapp.com?font=roboto&size=36&duration=3000&pause=999999&color=6366F1&center=true&vCenter=true&width=350&lines=Jeferson+Adriano Horn" alt="Jeferson Adriano Horn" />
 
 **Desenvolvedor Full-Stack & Maker IoT**
 
@@ -53,7 +53,7 @@
 
 <div align="center">
 
-<a href="https://instagram.com/jjefersonadriano">
+<a href="https://www.instagram.com/jefersonadrianohorn/">
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
 </a>
 <a href="mailto:Jefersonadrianohorn@gmail.com">
