@@ -1,8 +1,7 @@
 <div align="center">
 
 # 👋 Olá, eu sou 
-<img src="https://readme-typing-svg.herokuapp.com/demo/?font=Bebas+Neue&size=47&pause=&color=FFFFFF&center=true&vCenter=true&repeat=false&height=100&lines=Jeferson+Adriano+Horn" alt="Jeferson Adriano Horn" />
-
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Bebas+Neue&size=47&pause=&color=FFFFFF&center=true&vCenter=true&repeat=false&width=435&height=100&lines=Jeferson+Adriano+Horn)](https://git.io/typing-svg)
 **Desenvolvedor Full-Stack & Maker IoT**
 
 </div>
