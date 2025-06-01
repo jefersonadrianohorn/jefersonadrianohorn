@@ -1,100 +1,75 @@
 <div align="center">
 
-# ⚡ JEFERSON ADRIANO ⚡
-### `Full-Stack Developer & IoT Innovator`
-
-```
+```ascii
     ╔══════════════════════════════════════════════════════════════╗
-    ║  🚀 Transformando café em código desde 2020                  ║
-    ║  🔧 Criador de gambiarras que funcionam melhor que planejado ║
-    ║  💡 Se não existe, eu invento. Se existe, eu melhoro.       ║
+    ║  🚀 JEFERSON ADRIANO - Code Craftsman & Hardware Wizard 🧙‍♂️  ║
     ╚══════════════════════════════════════════════════════════════╝
 ```
 
 </div>
 
----
-
 <div align="center">
-
-## 🎮 **STATUS ATUAL**
-
-```ascii
-┌─ DESENVOLVEDOR STATS ────────────────────────────────────┐
-│                                                          │
-│  ⚡ Energy:     ████████████████████████████████ 100%    │
-│  🧠 Learning:  ██████████████████████████░░░░░░  80%     │
-│  ☕ Coffee:    ████████████████████░░░░░░░░░░░░░  65%     │
-│  🔥 Projects:  █████████████████████████████████  95%    │
-│  😴 Sleep:     ████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░  15%     │
-│                                                          │
-└──────────────────────────────────────────────────────────┘
-```
-
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Transformando+café+em+código+☕;Criando+gambiarras+que+funcionam+⚡;De+websites+a+microcontroladores+🔧" alt="Typing SVG" />
 </div>
 
 ---
 
+## 🎭 **Quem sou eu?**
+
+```javascript
+const jeferson = {
+    location: "Vila Rica, MT 🌎",
+    role: "Full-Stack Developer & IoT Enthusiast",
+    philosophy: "Se funciona, não é gambiarra, é solução criativa! 🎯",
+    currentMood: "Codando e conectando coisas que não deveriam se conectar 😄",
+    coffee: "Required dependency ☕"
+};
+```
+
+<div align="center">
+
+### 🛠️ **Arsenal de Tecnologias**
+
+</div>
+
 <table align="center">
 <tr>
-<td valign="top" width="50%">
+<td align="center" width="50%">
 
-## 🛠️ **ARSENAL TECNOLÓGICO**
-
-### 🌐 **Frontend Magic**
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-### ⚙️ **Backend Power**
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
-### 🤖 **IoT & Embedded**
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
-![ESP32](https://img.shields.io/badge/ESP32-000000?style=for-the-badge&logo=espressif&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
+**🌐 Web Universe**
+```
+┌─ Frontend
+│  ├─ 🟨 JavaScript (ES6+)
+│  ├─ 🟧 HTML5
+│  └─ 🟦 CSS3
+│
+└─ Backend  
+   └─ 🟪 PHP
+```
 
 </td>
-<td valign="top" width="50%">
+<td align="center" width="50%">
 
-## 🎯 **MISSÕES ATIVAS**
-
+**⚡ Hardware Universe**
 ```
-🔥 PROJETOS HOT:
-├── 🏠 Sistema IoT Casa Inteligente
-├── 🌡️ Monitor Ambiental ESP32
-├── 🤖 Bot Telegram + Arduino
-└── 📱 App Controle Remoto
-
-⭐ SKILLS DESBLOQUEADAS:
-├── [████████████████████████] WiFi/Bluetooth
-├── [██████████████████████░░] MQTT Protocol  
-├── [████████████████████░░░░] Sensor Integration
-└── [██████████████████░░░░░░] PCB Design
+┌─ Microcontrollers
+│  ├─ 🔵 ESP32 (WiFi/BLE)
+│  └─ 🟢 Arduino (Uno/Nano/Mega)
+│
+└─ Languages
+   ├─ ⚪ C/C++
+   └─ 🔧 Assembly (when needed)
 ```
-
-## 🏆 **ACHIEVEMENTS**
-- 🎖️ **Gambiarra Master** - Criou 50+ soluções criativas
-- 🚀 **Code Ninja** - 1000+ commits este ano
-- 🔧 **Hardware Hacker** - 25+ projetos Arduino/ESP32
-- ☕ **Coffee Driven Developer** - Powered by caffeine
 
 </td>
 </tr>
 </table>
 
----
-
 <div align="center">
 
-## 📊 **BATTLEFIELD STATS**
+### 🎨 **Tech Stack Visualization**
 
-<img src="https://github-readme-stats.vercel.app/api?username=jefersonadrianohorn&show_icons=true&theme=radical&hide_border=true&title_color=ff6b6b&text_color=ffffff&bg_color=0d1117" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jefersonadrianohorn&layout=compact&theme=radical&hide_border=true&title_color=ff6b6b&text_color=ffffff&bg_color=0d1117" height="165"/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=jefersonadrianohorn&theme=radical&hide_border=true&stroke=ffffff&background=0d1117&ring=ff6b6b&fire=ff6b6b&currStreakLabel=ffffff" width="49%"/>
+<img src="https://skillicons.dev/icons?i=js,html,css,php,arduino,cpp,c,git,vscode,linux" />
 
 </div>
 
@@ -102,12 +77,37 @@
 
 <div align="center">
 
-## 🎵 **CODING SOUNDTRACK**
+## 📊 **GitHub Analytics Dashboard**
 
-```
-♫ ♪ ♫ ♪ ♫ ♪ ♫ ♪ ♫ ♪ ♫ ♪ ♫ ♪ ♫ ♪ ♫ ♪ ♫ ♪ ♫ ♪ ♫ ♪
-    🎧 Lofi Hip Hop    🎧 Synthwave    🎧 Dubstep
-♫ ♪ ♫ ♪ ♫ ♪ ♫ ♪ ♫ ♪ ♫ ♪ ♫ ♪ ♫ ♪ ♫ ♪ ♫ ♪ ♫ ♪ ♫ ♪
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=jefersonadrianohorn&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=C9D1D9"/>
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=jefersonadrianohorn&theme=tokyonight&hide_border=true&background=0D1117&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF"/>
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jefersonadrianohorn&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9"/>
+<img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=jefersonadrianohorn&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF&hide_border=true"/>
+
+</div>
+
+---
+
+<div align="center">
+
+## 🎯 **Current Mission**
+
+```python
+class CurrentFocus:
+    def __init__(self):
+        self.projects = [
+            "🔌 IoT solutions with ESP32",
+            "🤖 Arduino automation systems", 
+            "🌐 Web applications that don't break",
+            "⚡ Creative hardware hacks"
+        ]
+        
+    def daily_routine(self):
+        return "Code → Test → Break → Fix → Repeat → Coffee ☕"
+        
+    def philosophy(self):
+        return "Every problem has a solution, even if it looks like a gambiarra!"
 ```
 
 </div>
@@ -116,27 +116,16 @@
 
 <div align="center">
 
-## 🚀 **LAUNCH SEQUENCE**
-
-```
-[████████████████████████████████████████] 100%
- Initializing awesome projects...
- Loading creative solutions...
- Deploying innovative ideas...
- 
- ✅ READY TO COLLABORATE!
-```
-
-## 📡 **COMMUNICATION CHANNELS**
+## 🌟 **Connect & Collaborate**
 
 <a href="https://instagram.com/jjefersonadriano">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&label=Follow&labelColor=000" />
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=000000" />
 </a>
 <a href="mailto:Jefersonadrianohorn@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&label=Email&labelColor=000" />
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=000000" />
 </a>
 <a href="https://wa.me/5566981188360?text=Oii%2C+vim+pelo+seu+Github+%F0%9F%90%88%E2%80%8D%E2%AC%9B%21">
-<img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&label=Chat&labelColor=000" />
+  <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=000000" />
 </a>
 
 </div>
@@ -146,26 +135,22 @@
 <div align="center">
 
 ```
-     ██╗███████╗███████╗███████╗██████╗ ███████╗ ██████╗ ███╗   ██╗
-     ██║██╔════╝██╔════╝██╔════╝██╔══██╗██╔════╝██╔═══██╗████╗  ██║
-     ██║█████╗  █████╗  █████╗  ██████╔╝███████╗██║   ██║██╔██╗ ██║
-██   ██║██╔══╝  ██╔══╝  ██╔══╝  ██╔══██╗╚════██║██║   ██║██║╚██╗██║
-╚█████╔╝███████╗██║     ███████╗██║  ██║███████║╚██████╔╝██║ ╚████║
- ╚════╝ ╚══════╝╚═╝     ╚══════╝╚═╝  ╚═╝╚══════╝ ╚═════╝ ╚═╝  ╚═══╝
+    💭 "A melhor gambiarra é aquela que vira feature!" 
+    
+    ⭐ Se gostou do meu trabalho, deixa uma estrela nos repos!
 ```
 
-### `"A única diferença entre um experimento e uma gambiarra é anotar o resultado"` 🧪⚡
-
-![Profile Views](https://komarev.com/ghpvc/?username=jefersonadrianohorn&color=ff6b6b&style=for-the-badge&label=VISITORS)
-![Followers](https://img.shields.io/github/followers/jefersonadrianohorn?style=for-the-badge&color=ff6b6b&labelColor=000)
+<img src="https://komarev.com/ghpvc/?username=jefersonadrianohorn&color=00d9ff&style=for-the-badge&label=VISITORS" />
 
 </div>
 
----
-
 <div align="center">
 
-### 🎮 **EASTER EGG ACTIVATED!** 🎮
-*Você encontrou o easter egg! Parabéns, desenvolvedor curioso! 🕵️‍♂️*
+```
+    ╭─────────────────────────────────────────────────╮
+    │  🚀 Always coding, always learning, always       │
+    │     creating something awesome!                   │
+    ╰─────────────────────────────────────────────────╯
+```
 
 </div>
