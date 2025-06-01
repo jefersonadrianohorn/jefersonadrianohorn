@@ -59,7 +59,7 @@
 
 <div align="center">
 
-> *"Criando soluções simples para problemas complexos."* 🚀
+> "Transformamos necessidades em soluções intuitivas."
 
 ![Visualizações](https://komarev.com/ghpvc/?username=jefersonadrianohorn&color=00d9ff&style=flat-square)
 
